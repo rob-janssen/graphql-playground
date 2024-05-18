@@ -1,3 +1,3 @@
-# Test with local database
+# Graphql playground
 
-Basic test with a local database.
+My own place for playing with Graphql backend, mostly with MongoDB but willing to experiment with other NoSQL or SQL databases.
